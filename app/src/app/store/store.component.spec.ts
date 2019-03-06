@@ -2,7 +2,7 @@ import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { StoreComponent } from './store.component';
 //UI_TESTS_TAGS:stores
-//demotestjasantha24-testing
+//demotestjasantha24-testingstores
 describe('StoreComponent', () => {
   let component: StoreComponent;
   let fixture: ComponentFixture<StoreComponent>;
